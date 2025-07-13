@@ -12,9 +12,9 @@ The activity simulates an internal audit of Botium Toys — a fictional company 
 
 ## Deliverables
 
-- **[Scope, Goals & Risk Assessment Report](./docs/Botium Toys_ Scope, goals, and risk assessment report.pdf)**
-- **[Controls & Compliance Checklist](./docs/Controls and compliance checklist.pdf)**
-- **[Control Categories Reference](./docs/Control categories.pdf)**
+- **[Scope, Goals & Risk Assessment Report](./docs/botium-scope-goals-risk-assessment.pdf)**
+- **[Controls & Compliance Checklist](./docs/controls-compliance-checklist.pdf)**
+- **[Control Categories Reference](./docs/control-categories.pdf)**
 
 ## Key Controls Missing
 
